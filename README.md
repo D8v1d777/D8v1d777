@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <a href="https://gifdb.com/gif/gojo-domain-expansion-releasing-unlimited-void-r5gl0ljw8pwct17r.html"><img src="https://gifdb.com/images/branded/high/gojo-domain-expansion-releasing-unlimited-void-r5gl0ljw8pwct17r.gif" alt="Gojo Satoru unleashing Unlimited Void" width="100%" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/D8v1d777"><img src="https://komarev.com/ghpvc/?username=D8v1d777&style=flat-square&color=193d79&label=VISITS" alt="Profile views" /></a>
   <a href="https://github.com/D8v1d777?tab=repositories"><img src="https://img.shields.io/badge/Repositories-have%20a%20look-101827?style=flat-square&labelColor=070b13" alt="Repositories" /></a>
 </p>
