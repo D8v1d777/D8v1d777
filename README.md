@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tenor.com/view/gojo-satoru-gif-949319236308169219"><img src="https://media1.tenor.com/m/DSyo0NKX8gMAAAAd/gojo-satoru.gif" alt="Gojo Satoru with glowing blue eyes and purple energy" width="100%" /></a>
+  <a href="https://www.youtube.com/watch?v=fEFUGwNK2wk"><img src="https://i.ytimg.com/vi/fEFUGwNK2wk/maxresdefault.jpg" alt="Gojo Satoru unleashing his 0.2-second Domain Expansion in the Season 2 Shibuya Incident arc — click to watch" width="100%" /></a>
 </p>
 
 <p align="center">
