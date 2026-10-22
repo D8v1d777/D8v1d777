@@ -1,10 +1,15 @@
-<p align="center">
-  <a href="https://tenor.com/view/gojo-satoru-gif-949319236308169219"><img src="https://media1.tenor.com/m/DSyo0NKX8gMAAAAd/gojo-satoru.gif" alt="Gojo Satoru with glowing blue eyes and purple energy" width="100%" /></a>
-</p>
 
-<p align="center">
-  <a href="https://gifdb.com/gif/gojo-domain-expansion-releasing-unlimited-void-r5gl0ljw8pwct17r.html"><img src="https://gifdb.com/images/branded/high/gojo-domain-expansion-releasing-unlimited-void-r5gl0ljw8pwct17r.gif" alt="Gojo Satoru unleashing Unlimited Void" width="100%" /></a>
-</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://tenor.com/view/gojo-satoru-gif-949319236308169219"><img src="https://media1.tenor.com/m/DSyo0NKX8gMAAAAd/gojo-satoru.gif" alt="Gojo Satoru with glowing blue eyes and purple energy" width="100%" /></a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://gifdb.com/gif/gojo-domain-expansion-releasing-unlimited-void-r5gl0ljw8pwct17r.html"><img src="https://gifdb.com/images/branded/high/gojo-domain-expansion-releasing-unlimited-void-r5gl0ljw8pwct17r.gif" alt="Gojo Satoru unleashing Unlimited Void" width="100%" /></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/D8v1d777"><img src="https://komarev.com/ghpvc/?username=D8v1d777&style=flat-square&color=193d79&label=VISITS" alt="Profile views" /></a>
