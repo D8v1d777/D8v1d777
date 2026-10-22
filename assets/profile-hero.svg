@@ -1,71 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">D8V1D777 — Signal / Systems</title>
-  <desc id="desc">A dark graphite engineering banner with animated crimson scan lines, a radar ring, glitch accents, and a high-contrast typographic mark.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#08090c"/><stop offset=".53" stop-color="#111319"/><stop offset="1" stop-color="#050609"/>
-    </linearGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ff2448" stop-opacity="0"/><stop offset=".22" stop-color="#ff2448"/><stop offset=".77" stop-color="#e8edf5" stop-opacity=".7"/><stop offset="1" stop-color="#e8edf5" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="halo">
-      <stop offset="0" stop-color="#ff2448" stop-opacity=".24"/><stop offset=".55" stop-color="#ff2448" stop-opacity=".07"/><stop offset="1" stop-color="#ff2448" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" fill="none" stroke="#8d96a5" stroke-opacity=".12" stroke-width=".7"/>
-      <circle cx="0" cy="0" r="1.2" fill="#c4cbd7" fill-opacity=".22"/>
-    </pattern>
-    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="frame"><rect width="1200" height="360" rx="18"/></clipPath>
-  </defs>
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="360" fill="url(#bg)"/>
-    <rect width="1200" height="360" fill="url(#grid)"/>
-    <ellipse cx="820" cy="170" rx="410" ry="300" fill="url(#halo)"/>
-    <path d="M0 58H1200M0 302H1200" stroke="#dbe2ee" stroke-opacity=".16"/>
-    <path d="M0 62H1200" stroke="url(#edge)" stroke-width="2" filter="url(#glow)"/>
-    <g fill="none" stroke="#e5eaf2" stroke-opacity=".2">
-      <circle cx="950" cy="177" r="124" stroke-dasharray="3 10"/>
-      <circle cx="950" cy="177" r="94" stroke-dasharray="42 12 4 12"/>
-      <circle cx="950" cy="177" r="63" stroke-opacity=".35"/>
-      <path d="M784 177H1116M950 11V343"/>
-      <path d="M832 59L1068 295M1068 59L832 295" stroke-opacity=".15"/>
-    </g>
-    <g fill="none" stroke="#ff2448" stroke-width="1.4" filter="url(#glow)">
-      <circle cx="950" cy="177" r="124" stroke-dasharray="72 710">
-        <animateTransform attributeName="transform" type="rotate" from="0 950 177" to="360 950 177" dur="26s" repeatCount="indefinite"/>
-      </circle>
-      <path d="M950 53V82M1074 177H1045M950 301V272M826 177H855">
-        <animate attributeName="opacity" values=".3;1;.3" dur="2.8s" repeatCount="indefinite"/>
-      </path>
-    </g>
-    <g font-family="monospace" fill="#aab2c0" font-size="10" letter-spacing="2">
-      <text x="48" y="39">D8V1D777 / FIELD NOTES</text>
-      <text x="1152" y="39" text-anchor="end">INDEPENDENT SYSTEMS LAB</text>
-      <text x="48" y="330">BUILD // BREAK // UNDERSTAND</text>
-      <text x="1152" y="330" text-anchor="end">EST. IN CURIOSITY</text>
-      <text x="950" y="181" text-anchor="middle" fill="#f1f4f8" font-size="13" letter-spacing="4">SYS_07</text>
-    </g>
-    <g>
-      <text x="49" y="150" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900" letter-spacing="-3" fill="#f3f5f8">D8V1D777</text>
-      <rect x="50" y="171" width="300" height="3" fill="#ff2448" filter="url(#glow)"/>
-      <rect x="50" y="171" width="300" height="3" fill="#ff2448">
-        <animate attributeName="width" values="38;300;180;300" dur="5s" repeatCount="indefinite"/>
-      </rect>
-      <text x="50" y="207" font-family="monospace" font-size="17" letter-spacing="3" fill="#d6dbe5">SOFTWARE / AI / SECURITY</text>
-      <text x="50" y="244" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#8992a2">Build things that hold up under scrutiny.</text>
-      <g font-family="monospace" font-size="10" letter-spacing="1.6" fill="#ff667f">
-        <text x="50" y="279">[ LOCAL-FIRST ]</text><text x="202" y="279">[ SECURITY-MINDED ]</text><text x="415" y="279">[ NO HYPE ]</text>
-      </g>
-    </g>
-    <g opacity=".65">
-      <path d="M0 0H1200V360H0Z" fill="none" stroke="#edf1f8" stroke-opacity=".28" stroke-width="2"/>
-      <path d="M18 18H75M18 18V75M1182 18H1125M1182 18V75M18 342H75M18 342V285M1182 342H1125M1182 342V285" fill="none" stroke="#ff2448" stroke-width="2"/>
-    </g>
-    <rect x="-1" y="0" width="1202" height="2" fill="#ff2448" opacity=".7">
-      <animate attributeName="y" values="0;358;0" dur="8s" repeatCount="indefinite"/>
-    </rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="t d">
+<title id="t">D8V1D777 — blue eye manga-inspired profile banner</title>
+<desc id="d">An original dark manga-inspired composition with an electric blue iris, white ink-like hair shapes, deep shadows, and subtle animated energy rings.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03050a"/><stop offset=".52" stop-color="#080e1c"/><stop offset="1" stop-color="#020409"/></linearGradient>
+ <radialGradient id="bluehalo"><stop stop-color="#1679ff" stop-opacity=".38"/><stop offset=".32" stop-color="#0755ca" stop-opacity=".18"/><stop offset="1" stop-color="#00132c" stop-opacity="0"/></radialGradient>
+ <radialGradient id="iris"><stop stop-color="#e8ffff"/><stop offset=".12" stop-color="#a4f3ff"/><stop offset=".34" stop-color="#43cfff"/><stop offset=".64" stop-color="#1477f6"/><stop offset=".88" stop-color="#12398c"/><stop offset="1" stop-color="#06142f"/></radialGradient>
+ <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset=".42" stop-color="#dbe7f8"/><stop offset=".72" stop-color="#8696b4"/><stop offset="1" stop-color="#27334a"/></linearGradient>
+ <linearGradient id="scan"><stop stop-color="#54e6ff" stop-opacity="0"/><stop offset=".5" stop-color="#54e6ff" stop-opacity=".7"/><stop offset="1" stop-color="#54e6ff" stop-opacity="0"/></linearGradient>
+ <pattern id="halftone" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".9" fill="#b9c9e6" fill-opacity=".23"/></pattern>
+ <filter id="bloom" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="10" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5"/></filter>
+ <clipPath id="eyeclip"><path d="M650 190 Q805 61 1032 151 Q1092 174 1127 202 Q986 308 780 251 Q700 230 650 190Z"/></clipPath>
+ <clipPath id="frame"><rect width="1200" height="390" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+ <rect width="1200" height="390" fill="url(#bg)"/>
+ <rect width="1200" height="390" fill="url(#halftone)" opacity=".65"/>
+ <path d="M0 39H1200M0 352H1200" stroke="#5f789d" stroke-opacity=".25"/>
+ <path d="M0 0L540 0L425 390H0Z" fill="#05070d" opacity=".82"/>
+ <path d="M490 0L584 0L462 390L374 390Z" fill="#0e1a2b" opacity=".22"/>
+ <ellipse cx="900" cy="194" rx="350" ry="260" fill="url(#bluehalo)"/>
+ <!-- sharp white hair / manga ink shapes -->
+ <path d="M666 0L846 0L782 54L909 20L843 81L1004 45L905 111L1062 93L967 145L822 129L735 83Z" fill="url(#hair)" opacity=".96"/>
+ <path d="M739 0L810 0L779 58L848 36L803 91L851 111L770 100L715 143L740 73L692 101Z" fill="#f8fbff"/>
+ <path d="M880 0L927 0L895 47L967 28L922 72L989 65L941 101L885 83L846 118L863 55Z" fill="#aabbd5"/>
+ <path d="M1043 390L1115 390L1080 311L1158 345L1101 278L1178 297L1124 230L1044 274L1005 331Z" fill="#b6c9e5" opacity=".7"/>
+ <!-- shadowed face plane -->
+ <path d="M715 110Q858 62 1056 132L1167 216L1065 297L847 324L720 262L666 200Z" fill="#060a12" stroke="#4b6388" stroke-opacity=".5"/>
+ <path d="M682 192Q815 83 1028 145Q1096 164 1137 198Q1004 298 794 256Q721 240 682 192Z" fill="#070c17" stroke="#99b4dc" stroke-width="3"/>
+ <path d="M650 190Q805 61 1032 151Q1092 174 1127 202Q986 308 780 251Q700 230 650 190Z" fill="#14243a"/>
+ <g clip-path="url(#eyeclip)">
+  <rect x="640" y="55" width="510" height="270" fill="#07101f"/>
+  <circle cx="898" cy="192" r="190" fill="url(#bluehalo)"/>
+  <circle cx="898" cy="192" r="104" fill="#0a61db" opacity=".25" filter="url(#soft)"/>
+  <circle cx="898" cy="192" r="76" fill="url(#iris)" stroke="#b5f7ff" stroke-width="2" filter="url(#bloom)"/>
+  <g transform="translate(898 192)" fill="none" stroke-linecap="round">
+   <circle r="66" stroke="#d9ffff" stroke-opacity=".8" stroke-width="1.6"/>
+   <circle r="55" stroke="#dbffff" stroke-opacity=".65" stroke-dasharray="2 5"/>
+   <circle r="43" stroke="#062c7e" stroke-width="2"/>
+   <circle r="30" stroke="#e7ffff" stroke-opacity=".7" stroke-dasharray="1 4"/>
+   <g stroke="#e3ffff" stroke-width="2">
+    <path d="M0-67V-51M0 67V51M-67 0H-51M67 0H51M-47-47L-36-36M47-47L36-36M47 47L36 36M-47 47L-36 36"/>
+    <path d="M-17-61L-12-44M17-61L12-44M-17 61L-12 44M17 61L12 44M-61-17L-44-12M61-17L44-12M-61 17L-44 12M61 17L44 12"/>
+   </g>
+   <circle r="19" fill="#020817" stroke="#9ef1ff" stroke-width="2"/>
+   <circle r="7" fill="#00030a"/>
+   <path d="M-37-29Q-5-54 22-31" stroke="#fff" stroke-width="5" opacity=".8"/>
+   <path d="M-54 9Q-24 25-8 52" stroke="#32d6ff" stroke-width="2" opacity=".7"/>
   </g>
+  <g fill="#d6faff" filter="url(#bloom)">
+   <circle cx="834" cy="136" r="2.5"/><circle cx="956" cy="151" r="2"/><circle cx="970" cy="222" r="2.4"/><circle cx="824" cy="232" r="1.8"/><circle cx="913" cy="111" r="1.5"/>
+  </g>
+  <path d="M650 186L1125 183L1125 191L650 194Z" fill="url(#scan)" opacity=".6">
+    <animate attributeName="opacity" values=".1;.8;.1" dur="3.8s" repeatCount="indefinite"/>
+  </path>
+ </g>
+ <!-- crisp ink lash lines -->
+ <path d="M650 190Q805 61 1032 151Q1092 174 1127 202Q986 308 780 251Q700 230 650 190Z" fill="none" stroke="#d9eaff" stroke-width="5"/>
+ <path d="M665 183L624 151L686 171M697 166L677 129L737 151M1070 171L1122 147L1094 186" fill="none" stroke="#f1f7ff" stroke-width="4"/>
+ <path d="M696 240Q824 295 1005 266L1064 244" fill="none" stroke="#1f4f91" stroke-width="3"/>
+ <!-- orbit and motion -->
+ <g fill="none" stroke="#3dbdff" stroke-opacity=".6">
+  <ellipse cx="898" cy="192" rx="175" ry="120" stroke-dasharray="2 12">
+   <animateTransform attributeName="transform" type="rotate" from="0 898 192" to="360 898 192" dur="34s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="898" cy="192" rx="204" ry="91" stroke-dasharray="42 15 3 15" opacity=".6">
+   <animateTransform attributeName="transform" type="rotate" from="0 898 192" to="-360 898 192" dur="42s" repeatCount="indefinite"/>
+  </ellipse>
+ </g>
+ <path d="M615 316L803 281L946 304L1200 246" fill="none" stroke="#2caaff" stroke-width="1.2" stroke-opacity=".55"/>
+ <path d="M614 319L803 284L946 307L1200 249" fill="none" stroke="#35dfff" stroke-width="5" stroke-opacity=".18" filter="url(#soft)"/>
+ <!-- typography: understated, no template slogans -->
+ <g font-family="Arial, Helvetica, sans-serif">
+  <text x="54" y="63" fill="#9eacc4" font-size="12" letter-spacing="4">D8V1D777</text>
+  <text x="49" y="164" fill="#f5f8ff" font-size="59" font-weight="800" letter-spacing="-2">I BUILD</text>
+  <text x="49" y="225" fill="#f5f8ff" font-size="59" font-weight="800" letter-spacing="-2">MY OWN</text>
+  <text x="49" y="286" fill="#6ddcff" font-size="59" font-weight="800" letter-spacing="-2">TOOLS.</text>
+  <path d="M53 307H306" stroke="#61dfff" stroke-width="2"/>
+  <text x="54" y="333" fill="#a9b7cd" font-family="monospace" font-size="12" letter-spacing="2">AI  /  PRIVACY  /  SECURITY</text>
+ </g>
+ <g fill="#6fe5ff">
+  <circle cx="548" cy="103" r="2"><animate attributeName="opacity" values=".15;1;.15" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="605" cy="265" r="1.5"><animate attributeName="opacity" values="1;.1;1" dur="3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="1110" cy="82" r="2"><animate attributeName="opacity" values=".1;1;.1" dur="2.8s" repeatCount="indefinite"/></circle>
+ </g>
+ <path d="M0 1H1200V389H0Z" fill="none" stroke="#6a8dbb" stroke-opacity=".35"/>
+</g>
 </svg>
