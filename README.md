@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/D8v1d777/D8v1d777/main/assets/profile-hero.svg" alt="Dark manga-inspired artwork with a glowing blue eye" width="100%" />
+  <a href="https://tenor.com/view/gojo-satoru-gif-949319236308169219"><img src="https://media1.tenor.com/m/DSyo0NKX8gMAAAAd/gojo-satoru.gif" alt="Gojo Satoru with glowing blue eyes and purple energy" width="100%" /></a>
 </p>
 
 <p align="center">
